@@ -1,7 +1,7 @@
 # **📚 Pre-Study: The Data Science Hierarchy of Needs**
 
 Instructions:  
-Before Class 2 begins, please read the provided article ["The Data Science Hierarchy of Needs"](https://www.shopdev.co/blog/data-science-hierarchy-of-needs) . Then, use NotebookLM to deepen your understanding.
+Before Class 2 begins, please read the provided article ["The Data Science Hierarchy of Needs"](https://medium.com/@hugh_data_science/the-pyramid-of-data-needs-and-why-it-matters-for-your-career-b0f695c13f11) . Then, use NotebookLM to deepen your understanding.
 
 ## **🤖 NotebookLM Prompt Guide**
 
