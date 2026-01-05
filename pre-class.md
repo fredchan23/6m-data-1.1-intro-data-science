@@ -1,4 +1,4 @@
-# **📚 Pre-Study: The Data Science Hierarchy of Needs**
+# **📚 Pre-Class: The Data Science Hierarchy of Needs**
 
 * **The Analogy:** Think of building an AI like building a house. You cannot put on the roof (AI) until you have a foundation (Data Collection) and walls (Data Cleaning).  
 * **Reference Article:** Read "The Data Science Hierarchy of Needs" by Monica Rogati (Search for this title on Google/Medium).
