@@ -35,4 +35,4 @@ By the end of this session, you will be able to:
 ## **📂 Resources**
 
 * [Pre-Class](./pre-class.md)  
-* [Netflix Case Study](./case_study.md)
+* [Netflix Case Study](./post-class.md)
