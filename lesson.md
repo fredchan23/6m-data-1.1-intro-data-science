@@ -31,7 +31,7 @@ Explain the difference between Data Analytics, Data Science, and AI.
 
 1. **The Matrix:** Provide learners with 5 scenarios (e.g., A bank detecting fraud, a manager making a pivot table, a self-driving car braking).
 
-2. **The Python Peek (Code Demo):** Show how we check data types to distinguish between "Reporting" and "Modeling."
+2. **The Python Peek (Code Demo):** Show how we check data types to distinguish between "Reporting" and "Modeling." (Instructor/Learner can run following code in Colab)
 
 ```python
 
